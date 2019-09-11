@@ -157,7 +157,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Onda Cero Murcia | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/murcia/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Murcia | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8) [mp3](http://stream.ondaceronoroeste.es/ondacero-64.mp3) | [web](https://www.ondacero.es/emisoras/murcia/murcia/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Noroeste | [m3u8](http://stream.ondaceronoroeste.es/ondacero-64.mp3) | [web](https://www.ondaceronoroeste.es/directo.html) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Regional de Murcia | - | [web](https://www.orm.es/directo/orm/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Onda Regional Música | - | [web](https://www.orm.es/directo/or-musica/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
